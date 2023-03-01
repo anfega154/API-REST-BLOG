@@ -11,9 +11,7 @@ const validateArticle=(params)=>{
   }
   }
 
-  const cambio=(req,res)=>{
-
-  }
+ 
   module.exports={
     validateArticle
   }
