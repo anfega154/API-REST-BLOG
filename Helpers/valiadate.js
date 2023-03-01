@@ -10,6 +10,10 @@ const validateArticle=(params)=>{
     throw new Error("no se ha validado la informacion");
   }
   }
+
+  const cambio=(req,res)=>{
+
+  }
   module.exports={
     validateArticle
   }
